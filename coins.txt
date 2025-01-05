@@ -1,0 +1,6 @@
+﻿Euro,€,EUR
+Libra,£,GBP
+Dolar,$,USD
+Yen japonés,¥,JPY
+Dólar canadiense,C$,CAD
+Dólar australiano,A$,AUD
